@@ -13,6 +13,7 @@
 		B08054E5235981FE000CE04A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B08054E4235981FE000CE04A /* Assets.xcassets */; };
 		B08054E8235981FE000CE04A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B08054E7235981FE000CE04A /* Preview Assets.xcassets */; };
 		B08054EB235981FE000CE04A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B08054E9235981FE000CE04A /* LaunchScreen.storyboard */; };
+		B08054F323598803000CE04A /* CustomModifierExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = B08054F223598803000CE04A /* CustomModifierExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B08054E7235981FE000CE04A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B08054EA235981FE000CE04A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B08054EC235981FE000CE04A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B08054F223598803000CE04A /* CustomModifierExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomModifierExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				B08054DE235981FD000CE04A /* AppDelegate.swift */,
 				B08054E0235981FD000CE04A /* SceneDelegate.swift */,
 				B08054E2235981FD000CE04A /* ContentView.swift */,
+				B08054F223598803000CE04A /* CustomModifierExample.swift */,
 				B08054E4235981FE000CE04A /* Assets.xcassets */,
 				B08054E9235981FE000CE04A /* LaunchScreen.storyboard */,
 				B08054EC235981FE000CE04A /* Info.plist */,
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B08054F323598803000CE04A /* CustomModifierExample.swift in Sources */,
 				B08054DF235981FD000CE04A /* AppDelegate.swift in Sources */,
 				B08054E1235981FD000CE04A /* SceneDelegate.swift in Sources */,
 				B08054E3235981FD000CE04A /* ContentView.swift in Sources */,
